@@ -1,2 +1,2 @@
 # odin-recipes
-Hello Everybody today I will do a Recipe for Margherita pizza 
+Hello everyone, I will be writing down recipes for my favourite foods.
